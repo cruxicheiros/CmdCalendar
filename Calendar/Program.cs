@@ -25,6 +25,5 @@ namespace Calendar
 
             Console.WriteLine(Birthday.Label + DateTime.Today);
         }
-
     }
 }
