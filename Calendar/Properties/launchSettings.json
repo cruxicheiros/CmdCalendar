@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Calendar": {
+      "commandName": "Project",
+      "commandLineArgs": "--add-event 2004/10/10 \"Foo Bar\""
+    }
+  }
+}
